@@ -1,0 +1,19 @@
+{
+  "name": "cordova-local-webserver",
+  "version": "1.0.0",
+  "description": "This Apache Cordova plugin will install a local web server in your iOS app, and will serve the contents of your `www` directory, looking for an index page of `index.html`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claydotio/cordova-local-webserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claydotio/cordova-local-webserver/issues"
+  },
+  "homepage": "https://github.com/claydotio/cordova-local-webserver#readme"
+}
